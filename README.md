@@ -16,5 +16,6 @@ Shell: [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh)
 ## Programming Hardware
 
 Keyboard: Corsair K50
+
 Mouse: Steel Series Sensei
 
