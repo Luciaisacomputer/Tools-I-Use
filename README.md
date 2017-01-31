@@ -1,4 +1,4 @@
-# Tools I Use
+# What I use
 A list of tools I use in case I need to set up a new machine 
 
 ## Programming Tools
