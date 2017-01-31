@@ -1,5 +1,5 @@
 # What I use
-A list of tools I use in case I need to set up a new machine 
+A list of tools and hardware I use.
 
 ## Programming Tools
 
