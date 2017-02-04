@@ -19,3 +19,6 @@ Keyboard: Corsair K50
 
 Mouse: Steel Series Sensei
 
+## MISC
+
+Polar Seltzer
