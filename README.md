@@ -9,7 +9,7 @@ Editor Theme: [Dracula](https://draculatheme.com/)
 
 Terminal: [Iterm](https://www.iterm2.com/)
 
-Terminal Theme: [Cobalt 2](https://github.com/wesbos/Cobalt2-iterm)
+Terminal Theme: [Dracula](https://draculatheme.com/)
 
 Shell: [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh)
 
