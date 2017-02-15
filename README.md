@@ -21,6 +21,10 @@ Mouse: Steel Series Sensei
 
 Headset: [Sennheiser 363D](https://www.amazon.com/Sennheiser-Performance-Surround-Gaming-Headset/dp/B008O515CK)
 
+## Communication
+
+Slack: [Slack](https://slack.com/)
+
 ## MISC
 
 Polar Seltzer
