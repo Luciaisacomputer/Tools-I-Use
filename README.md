@@ -27,4 +27,4 @@ Slack: [Slack](https://slack.com/)
 
 ## MISC
 
-Polar Seltzer
+Polar Seltzer: [Drink it!](http://polarseltzer.com/)
