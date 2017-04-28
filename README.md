@@ -15,7 +15,7 @@ Shell: [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh)
 
 ## Programming Hardware
 
-Keyboard: Corsair K50
+Keyboard: [Corsair K50](http://www.corsair.com/en-us/raptor-k50-gaming-keyboard)
 
 Mouse: Steel Series Sensei
 
