@@ -21,6 +21,8 @@ Mouse: Steel Series Sensei
 
 Headset: [Sennheiser 363D](https://www.amazon.com/Sennheiser-Performance-Surround-Gaming-Headset/dp/B008O515CK)
 
+Mousepad: [Corsair MM200](http://www.corsair.com/en-us/corsair-vengeance-mm200-gaming-mouse-mat-xl-edition)
+
 ## Communication
 
 Slack: [Slack](https://slack.com/)
