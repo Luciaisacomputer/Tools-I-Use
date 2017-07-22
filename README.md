@@ -23,6 +23,8 @@ Headset: [Sennheiser 363D](https://www.amazon.com/Sennheiser-Performance-Surroun
 
 Mousepad: [Corsair MM200](http://www.corsair.com/en-us/corsair-vengeance-mm200-gaming-mouse-mat-xl-edition)
 
+Laptop stand: [mStand](http://www.raindesigninc.com/mstand.html)
+
 ## Communication
 
 Slack: [Slack](https://slack.com/)
