@@ -29,6 +29,16 @@ Laptop stand: [mStand](http://www.raindesigninc.com/mstand.html)
 
 Slack: [Slack](https://slack.com/)
 
+## Chrome Extensions
+
+Accessibility Developer Tools
+Augury
+Git Pull Request Templates
+Lighthouse
+Validity
+Web Developer
+YSlow
+
 ## MISC
 
 Polar Seltzer: [Drink it!](http://polarseltzer.com/)
