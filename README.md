@@ -33,6 +33,9 @@ Slack: [Slack](https://slack.com/)
 
 Accessibility Developer Tools
 Augury
+CSS Dig
+Dom Flags
+Full Page Screen Capture
 Git Pull Request Templates
 Lighthouse
 Validity
