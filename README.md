@@ -1,5 +1,5 @@
 # What I use
-A list of tools and hardware I use.
+A list of tools and hardware I use. I find that a lot of people are very interested in what other developers use on a day to day basis, so here we go: 
 
 ## Programming Tools
 
