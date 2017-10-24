@@ -9,6 +9,8 @@ Editor Theme: [Dracula](https://draculatheme.com/)
 
 Terminal: [Iterm](https://www.iterm2.com/)
 
+Terminal (Windows): [Cmder](http://cmder.net/)
+
 Terminal Theme: [Dracula](https://draculatheme.com/)
 
 Shell: [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh)
