@@ -33,7 +33,7 @@ Slack: [Slack](https://slack.com/)
 
 ## Chrome Extensions
 
-Accessibility Developer Tools
+**Accessibility Developer Tools
 Augury
 CSS Dig
 Dom Flags
@@ -44,7 +44,7 @@ Validity
 Web Developer
 YSlow
 React Dev Tools
-Redux Dev Tools
+Redux Dev Tools**
 
 ## MISC
 
