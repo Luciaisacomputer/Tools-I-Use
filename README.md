@@ -43,6 +43,8 @@ Lighthouse
 Validity
 Web Developer
 YSlow
+React Dev Tools
+Redux Dev Tools
 
 ## MISC
 
