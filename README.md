@@ -60,3 +60,6 @@ Redux Dev Tools
 ## MISC
 
 Polar Seltzer: [Drink it!](http://polarseltzer.com/)
+
+
+If you have any other recommendations let me know!
